@@ -4,7 +4,7 @@ Material del taller para estudiantes de primer y segundo año de licenciatura.
 
 ## Abrir el notebook
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TU-USUARIO/taller-modelos-generativos/blob/main/notebooks/taller_modelos_generativos.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/edircoli/taller-genbio/blob/main/notebooks/taller_fava.ipynb)
 
 No necesitas instalar nada: el notebook corre en CPU y descarga los datos solo.
 
